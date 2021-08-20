@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Char!
 
-<!--
-**bl-kt/bl-kt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(They/Them)
 
-Here are some ideas to get you started:
+I'm a Software Engineering student ([@portsoc](httpsL//github.com/portsoc))
+I'm interested in Front-end Development and UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me at:
+
+- Personal Website (https://bl-kt.co.uk)
+- LinkedIn (https://www.linkedin.com/in/blkt/)
+- Dribbble (https://dribbble.com/bl-kt)
+- GitHub - here! (https://github.com/bl-kt)
+
+I'm working on:
+- Various Portfolio Website Commissions
+- Developing my front-end skills
