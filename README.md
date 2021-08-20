@@ -2,8 +2,7 @@
 
 (They/Them)
 
-I'm a Software Engineering student ([@portsoc](httpsL//github.com/portsoc))
-I'm interested in Front-end Development and UX.
+I'm a Software Engineering student ([@portsoc](httpsL//github.com/portsoc)) interested in Front-end Development and UX.
 
 I'm working on:
 - Various Portfolio Website Commissions
