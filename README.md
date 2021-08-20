@@ -5,6 +5,10 @@
 I'm a Software Engineering student ([@portsoc](httpsL//github.com/portsoc))
 I'm interested in Front-end Development and UX.
 
+I'm working on:
+- Various Portfolio Website Commissions
+- Developing my front-end skills
+
 Find me at:
 
 - Personal Website (https://bl-kt.co.uk)
@@ -12,6 +16,3 @@ Find me at:
 - Dribbble (https://dribbble.com/bl-kt)
 - GitHub - here! (https://github.com/bl-kt)
 
-I'm working on:
-- Various Portfolio Website Commissions
-- Developing my front-end skills
