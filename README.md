@@ -1,17 +1,23 @@
-## Hi there, I'm Char!
+# **Hi there, I'm Char**
 
-(They/Them)
+*they/them*
 
-I'm a Software Engineering student ([@portsoc](httpsL//github.com/portsoc)) interested in Front-end Development and UX.
+### **I'm**:
+- 🎓 a BSc Software Engineering student ([@portsoc](httpsL//github.com/portsoc))
+- 💻 Interested in Front-end Development and UX.
 
-I'm working on:
-- Various Portfolio Website Commissions
-- Developing my front-end skills
+### **I'm working on**:
+- 🖥️ https://blkt.co.uk - My personal site and portfolio
+- 🎵 Ambience - A personal discord bot for ambient online tabletop music
 
-Find me at:
+### **I'm currently learning**:
+- ⌨️ Various JS frameworks
+- ✏️ Front-end Graphic Design skills (Il, Ps, Xd, Figma)
 
-- Personal Website (https://bl-kt.co.uk)
-- LinkedIn (https://www.linkedin.com/in/blkt/)
-- Dribbble (https://dribbble.com/bl-kt)
-- GitHub - here! (https://github.com/bl-kt)
+### **Find me on**:
+
+- 🐈 Personal Website (https://bl-kt.co.uk)
+- 👔LinkedIn (https://www.linkedin.com/in/blkt/)
+- 🎨 Dribbble (https://dribbble.com/bl-kt)
+- 💾 GitHub - here! (https://github.com/bl-kt)
 
