@@ -8,7 +8,9 @@
 
 ### **I'm working on**:
 - 🖥️ https://blkt.co.uk - My personal site and portfolio
+- 🖼️ Several art-related portfolios
 - 🎵 Ambience - A personal discord bot for ambient online tabletop music
+- 📅 date-calc - A JS solution to my date-related maths
 
 ### **I'm currently learning**:
 - ⌨️ Various JS frameworks
