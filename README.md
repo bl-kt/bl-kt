@@ -1,4 +1,4 @@
-# **Hi there, I'm Char**
+# **Hi there, I'm Char!**
 
 *they/them*
 
