@@ -24,6 +24,5 @@
 
 - 🐈 Personal Website (https://blkt.co.uk)
 - 👔 LinkedIn (linkedin.com/in/bl-kt)
-- 🎨 Dribbble (https://dribbble.com/bl-kt)
 - 💾 GitHub - here! (https://github.com/bl-kt)
 
