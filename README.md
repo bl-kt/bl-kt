@@ -13,7 +13,7 @@
 <br>
 
 - 🎵 Ambience - A personal discord bot for ambient online tabletop music
-- 📅 [date-calc](https://blkt.co.uk/date-calc/) - A JS solution to my date-related maths
+- 📅 [date-calc](https://blkt.co.uk/date-calc/) - A solution to my constant need for date-related maths
 - ✂️ Various other code snippets and experiments
 
 ### **I'm currently learning**:
