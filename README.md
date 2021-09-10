@@ -23,6 +23,6 @@
 ### **Find me on**:
 
 - 🐈 Personal Website (https://blkt.co.uk)
-- 👔 LinkedIn (linkedin.com/in/bl-kt)
+- 👔 LinkedIn (https://linkedin.com/in/bl-kt)
 - 💾 GitHub - here! (https://github.com/bl-kt)
 
