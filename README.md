@@ -1,10 +1,9 @@
 # **Hi there, I'm Char!**
 
-*they/them*
-
 ### **I'm**:
 - 🎓 a BSc Software Engineering student ([@portsoc](httpsL//github.com/portsoc))
 - 💻 Interested in Front-end Development and UX.
+- 0️⃣1️⃣ Non-Binary, meaning I use They/Them Pronouns
 
 ### **I'm working on**:
 - 🖥️ [blkt.co.uk](https://blkt.co.uk) - My personal site and portfolio  
