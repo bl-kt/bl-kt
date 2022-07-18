@@ -2,7 +2,7 @@
 
 ### **I'm**:
 - 🎓 a BSc Software Engineering student ([@portsoc](https://github.com/portsoc))
-- 🎓 a Placement student ([@radweb](https://github.com/radweb))
+- 🎓 a Placement student ([@Radweb](https://github.com/radweb))
 - 💻 Interested in Front-end Development and UX.
 - 0️⃣1️⃣ Non-Binary -  I use They/Them Pronouns
 
