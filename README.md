@@ -59,7 +59,8 @@
           
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 <img height="25" width="25"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-          
+  
+... and more!         
           
 </div>
 
