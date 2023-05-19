@@ -1,7 +1,7 @@
 <!--- Header -->
 <div id="header" align="center">
   <div id="logo">
-    <img src="https://github.com/bl-kt/bl-kt/blob/main/image.png"
+    <a href="https://www.blkt.co.uk"><img src="https://github.com/bl-kt/bl-kt/blob/main/image.png"/></a>
    </div>
    <div id="title">
      <h1>Hey, I'm Char</h1>
@@ -12,38 +12,10 @@
       </div>
   </div>
 </div> 
-
-<!--- About me section -->
-<div align="left">
-  <h3> I'm currently a... </h3>
-  <ul>
-    <li>
-      BSc Software Engineering Undergraduate <a href="https://www.port.ac.uk/">[@University of Portsmouth]</a> [September 2020 - June 2024]
-    </li>
-    <li>
-      Placement Student, working as a Fullstack Developer <a href="https://www.github.com/Radweb">[@Radweb]</a> 
-    </li>
-  </ul>
-</div>
-
-<div align="left">
-  <h3> I'm passionate about... </h3>
-  <ul>
-    <li>
-      UX, UI and HCI  
-    </li>
-    <li>
-      Accessibility
-    </li>
-    <li>
-      Computing Education
-    </li>
-  </ul>
-</div>
-
+  
+<br/>
 <!--- Languages and tools -->
 <div align="left">
-<h3> I'm familiar with... </h3>
   <div align="center">
 
   <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -84,4 +56,32 @@
   <img height="25" width="25"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <p>... and more!  </p>  
   </div>
+</div>
+
+<!--- About me section -->
+<div align="left">
+  <h3> I'm currently a... </h3>
+  <ul>
+    <li>
+      BSc Software Engineering Undergraduate <a href="https://www.port.ac.uk/">[@University of Portsmouth]</a> [September 2020 - June 2024]
+    </li>
+    <li>
+      Placement Student, working as a Fullstack Developer <a href="https://www.github.com/Radweb">[@Radweb]</a> 
+    </li>
+  </ul>
+</div>
+
+<div align="left">
+  <h3> I'm passionate about... </h3>
+  <ul>
+    <li>
+      UX, UI and HCI  
+    </li>
+    <li>
+      Accessibility
+    </li>
+    <li>
+      Computing Education
+    </li>
+  </ul>
 </div>
