@@ -85,15 +85,3 @@
     <p>... and more!  </p>  
   </div>
 </div>
-
-<!--- Stats -->
-<div id="stats">
-<h3> Stats: </h3>
-<a href="https://github.com/bl-kt">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl-kt&hide=html,css" alt="Char's GitHub Stats" />
-</a>
-
-<a href="https://github.com/bl-kt">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bl-kt&show_icons=true" alt="Char's GitHub Stats" />
-</a>
-</div>
