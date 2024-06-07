@@ -21,7 +21,7 @@
       BSc Software Engineering Undergraduate <a href="https://www.port.ac.uk/">[@University of Portsmouth]</a> [September 2020 - June 2024]
     </li>
     <li>
-      Part-time Fullstack Developer <a href="https://www.github.com/Radweb">[@Radweb]</a> 
+      Developer <a href="https://www.github.com/Radweb">[@Radweb]</a> 
     </li>
   </ul>
 </div>
