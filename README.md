@@ -18,10 +18,14 @@
   <h3> I'm currently a... </h3>
   <ul>
     <li>
-      BSc Software Engineering Undergraduate <a href="https://www.port.ac.uk/">[@University of Portsmouth]</a> [September 2020 - June 2024]
-    </li>
-    <li>
       Developer <a href="https://www.github.com/Radweb">[@Radweb]</a> 
+    </li>
+  </ul>
+
+<h3> I was a... </h3>
+  <ul>
+    <li>
+      BSc Software Engineering Student <a href="https://www.port.ac.uk/">[@University of Portsmouth]</a> [September 2020 - July 2024]
     </li>
   </ul>
 </div>
