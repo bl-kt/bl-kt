@@ -1,8 +1,5 @@
 <!--- Header -->
 <div id="header" align="center">
-  <div id="logo">
-    <a href="https://www.blkt.co.uk"><img src="https://github.com/bl-kt/bl-kt/blob/main/image.png"/></a>
-   </div>
    <div id="title">
      <h1>Hey, I'm Char</h1>
      <div id="badges">
